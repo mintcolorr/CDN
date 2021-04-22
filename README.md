@@ -1,0 +1,2 @@
+# CDN
+cdn for blog
